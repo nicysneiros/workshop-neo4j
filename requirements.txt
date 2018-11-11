@@ -1,0 +1,5 @@
+neo4j-driver==1.6.2
+neotime==1.0.0
+py2neo==4.1.0
+pytz==2018.7
+six==1.11.0
